@@ -27,7 +27,7 @@ export default function TestimonialCard({ testimonial }: TestimonialCardProps) {
         </div>
       </div>
       <p className="text-muted-foreground flex-grow italic">
-        "{testimonial.content}"
+        &ldquo;{testimonial.content}&rdquo;
       </p>
     </div>
   )

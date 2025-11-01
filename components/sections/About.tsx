@@ -26,9 +26,9 @@ export default function About() {
           <div className="max-w-3xl mx-auto">
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
               {/* Update this with your actual bio from Notion */}
-              I'm a passionate Travel Creator and Operator with expertise in crafting
+              I&apos;m a passionate Travel Creator and Operator with expertise in crafting
               compelling travel content and managing seamless travel operations. With
-              years of experience in the industry, I've helped numerous clients create
+              years of experience in the industry, I&apos;ve helped numerous clients create
               memorable travel experiences.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
