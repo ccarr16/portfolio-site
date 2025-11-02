@@ -32,7 +32,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.4 }}
             className="text-base md:text-lg text-muted-foreground max-w-2xl mx-auto mb-8"
           >
-            I help travel creators turn their chaos into consistency — repurposing videos, managing uploads, and keeping their content machine running while they&apos;re out traveling.
+            I help travel creators turn their chaos into consistency — editing videos, managing uploads, and keeping their content machine running while they&apos;re out traveling.
           </motion.p>
 
           <motion.div
